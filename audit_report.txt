@@ -1,0 +1,5 @@
+Driver: Adward Li | Action: PROCEED: Priority lane opened.
+Driver: Alik Ji | License: 123456 | Action: PROCEED: Priority lane opened. Waiting for evidence.
+Driver: Admira Ana | License: 23456 | Action: DENIED: Normal lane. Trust Score reduced to 90%
+Driver: Admira Ana | License: 23456 | Action: DENIED: Normal lane. Trust Score reduced to 80%
+Driver: Admira Ana | License: 23456 | Action: DENIED: Normal lane. Trust Score reduced to 70%
